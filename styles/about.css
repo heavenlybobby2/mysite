@@ -81,3 +81,17 @@ body {
   text-decoration: none;
   color: white;
 }
+
+.social-div {
+  margin-top: 5px;
+}
+
+.facebook-img {
+  width: 50px;
+}
+
+.Instagram-img,
+.twitter-img {
+  width: 30px;
+  padding-right: 10px;
+}

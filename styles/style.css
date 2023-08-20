@@ -39,6 +39,12 @@ body {
   color: goldenrod;
 }
 
+.nav-list a:hover {
+  background-color: blue;
+  padding: 5px;
+  border-radius: 10px;
+}
+
 .details {
   display: flex;
   justify-content: space-around;
@@ -80,6 +86,13 @@ body {
   width: 230px;
   height: 220px;
   object-fit: cover;
+}
+
+.image-div {
+  background-color: blue;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-bottom: 10px;
 }
 
 .down-side {
